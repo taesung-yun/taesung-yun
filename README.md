@@ -16,3 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom&text=It's%20my%20World!)
+
+ <!--Body-->
+  
+  ## 👀 About Me
+  #### :raising_hand: I am a Cloud Engineer from South Korea.<br/>
+  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  <br/>
+  <br/>
