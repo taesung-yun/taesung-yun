@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   
   ## 👀 About Me
   #### :raising_hand: I am a Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
+  #### :fire: I aim to become a Program Designer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
   <br/>
   <br/>
