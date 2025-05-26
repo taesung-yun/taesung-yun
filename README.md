@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=venom)
-![header](https://capsule-render.vercel.app/api?text=It's my world)
+![header](https://capsule-render.vercel.app/api?text=It's%my%world)
